@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{803FDB64-7A32-7999-D5B2-3BB6318F6D6B}") = "HellowUnity", "Assembly-CSharp.csproj", "{13EF2124-450E-6F45-5106-054892E51473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13EF2124-450E-6F45-5106-054892E51473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EF2124-450E-6F45-5106-054892E51473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EF2124-450E-6F45-5106-054892E51473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EF2124-450E-6F45-5106-054892E51473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
